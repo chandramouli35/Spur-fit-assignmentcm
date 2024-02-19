@@ -2,13 +2,13 @@
 </br>
 <h2> Sample Project Images:-</h2>
 </br>
-<img src ="https://res.cloudinary.com/drdjty87p/image/upload/v1708242498/Screenshot_2024-02-18_131444_j6g5ws.png"/>
-<img src ="https://res.cloudinary.com/drdjty87p/image/upload/v1708242497/Screenshot_2024-02-18_131452_ttk6zg.png"/>
-<img src ="https://res.cloudinary.com/drdjty87p/image/upload/v1708242497/Screenshot_2024-02-18_131452_ttk6zg.png"/>
-<img src ="https://res.cloudinary.com/drdjty87p/image/upload/v1708242497/Screenshot_2024-02-18_131631_ewwswz.png"/>
-<img src ="https://res.cloudinary.com/drdjty87p/image/upload/v1708242497/Screenshot_2024-02-18_131708_mlewmz.png"/>
-<img src ="https://res.cloudinary.com/drdjty87p/image/upload/v1708242498/Screenshot_2024-02-18_131726_a3gqcs.png"/>
-<img src ="https://res.cloudinary.com/drdjty87p/image/upload/v1708242497/Screenshot_2024-02-18_131743_fvob5r.png"/>
+<img src ="https://res.cloudinary.com/dgonqoet4/image/upload/v1708332434/Screenshot_2024-02-19_141348_htgoxd.png"/>
+<img src ="https://res.cloudinary.com/dgonqoet4/image/upload/v1708332431/Screenshot_2024-02-19_141412_fe61ir.png"/>
+<img src ="https://res.cloudinary.com/dgonqoet4/image/upload/v1708332432/Screenshot_2024-02-19_141424_zroqba.png"/>
+<img src ="https://res.cloudinary.com/dgonqoet4/image/upload/v1708332432/Screenshot_2024-02-19_141506_b9l2wl.png"/>
+<img src ="https://res.cloudinary.com/dgonqoet4/image/upload/v1708332434/Screenshot_2024-02-19_141519_phbdff.png"/>
+<img src ="https://res.cloudinary.com/dgonqoet4/image/upload/v1708332434/Screenshot_2024-02-19_141530_i4f2a6.png"/>
+<img src ="https://res.cloudinary.com/dgonqoet4/image/upload/v1708332434/Screenshot_2024-02-19_141544_of0mim.png"/>
 
 <h1>Project Installation:-</h1>
 </br>
@@ -21,5 +21,3 @@
 <p>> react-scripts<p></br>
 <p>> tailwindcss</p></br>
 
-<h1>Assignment Instructions:</h1></br>
-<img src = "https://res.cloudinary.com/drdjty87p/image/upload/v1708243179/Screenshot_2024-02-18_132851_vjvxgt.png"/>
